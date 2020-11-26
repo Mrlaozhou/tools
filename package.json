@@ -15,5 +15,6 @@
     "chunk"
   ],
   "author": "Luke",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {}
 }

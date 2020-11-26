@@ -1,4 +1,4 @@
-import Collection from "./lib/Collection";
+const Collection = require('./lib/Collection');
 
 /**
  * Collection 助手函数
@@ -11,4 +11,4 @@ function collect(data) {
 }
 
 
-export default {collect};
+module.exports =  {collect};
