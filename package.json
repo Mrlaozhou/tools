@@ -1,0 +1,19 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "js 操作工具类(数据)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tools",
+    "collection",
+    "array",
+    "foreach",
+    "group",
+    "chunk"
+  ],
+  "author": "Luke",
+  "license": "ISC"
+}
