@@ -1,4 +1,5 @@
 const Collection = require('./lib/Collection');
+const test_data = require('./lib/data');
 
 /**
  * Collection 助手函数
@@ -11,4 +12,4 @@ function collect(data) {
 }
 
 
-module.exports =  {collect};
+module.exports =  {collect, test_data};
