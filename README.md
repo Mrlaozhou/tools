@@ -10,8 +10,8 @@ npm install mrlzz-tools
 
 #### Example
 ```javascript
-// import {collect, test_data} from 'mrlzz-tools';
-import {collect, test_data} from './index';
+import {collect, test_data} from 'mrlzz-tools';
+// import {collect, test_data} from './index';
 
 // 创建集合
 let user_coll = collect(test_data.user);
