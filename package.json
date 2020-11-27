@@ -16,5 +16,7 @@
   ],
   "author": "Luke",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "js-magic": "^1.2.1"
+  }
 }
